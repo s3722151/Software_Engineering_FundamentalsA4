@@ -1,0 +1,10 @@
+12345MMM!
+Data Analyst
+Google Intern
+Melbourne, Victoria, Australia.
+2023-10-01
+Junior
+Part-Time
+[Ljava.lang.String;@5ffead27
+45000.0
+This person is an intern.
